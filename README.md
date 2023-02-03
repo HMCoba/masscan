@@ -2,7 +2,7 @@
 
 # MASSCAN: Mass IP port scanner
 
-This is an Internet-scale port scanner. It can scan the entire Internet
+This is an Internet-scale port scanner. It can scan the entire Internet7
 in under 5 minutes, transmitting 10 million packets per second,
 from a single machine.
 
@@ -598,4 +598,4 @@ at which they perform this calculation, making `masscan` much faster.
 
 This tool created by Robert Graham:
 email: robert_david_graham@yahoo.com
-twitter: @ErrataRob
+twitter: @ErrataRob887
